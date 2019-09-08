@@ -1,3 +1,4 @@
 public class animal
 {
+int x=4;
 }
